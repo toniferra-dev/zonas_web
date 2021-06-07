@@ -1,0 +1,12 @@
+/* RESET */
+@import url(./css/normalize.css);
+@import url(./css/reset.css);
+
+/* VARIABLES, COLORES Y TIPOGRAFÍA */
+@import url(./css/color.css);
+@import url(./css/tipografia.css);
+
+/* ESTRUCTURAS */
+@import url(./css/header.css);
+@import url(./css/footer.css);
+@import url(./css/layout.css);
